@@ -20,7 +20,7 @@ To explore and visualize different aspects of ice cream ratings (Flavor, Texture
 - **Histogram** – For rating distribution
 - **Box Plot** – To show spread and outliers
 - **Pie Chart** – For flavor rating proportion
-- **Styling** – Applied `fivethirtyeight` style from Matplotlib
+
 
 ---
 
