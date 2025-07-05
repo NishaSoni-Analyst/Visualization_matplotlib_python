@@ -1,5 +1,5 @@
-# Visualization_matplotlib_python
-# 🍨 Ice Cream Ratings Visualization
+# [Visualization_matplotlib_python](https://github.com/NishaSoni-Analyst/Visualization_matplotlib_python/blob/main/Visualization_matplotlib_pandas.ipynb)
+# [🍨 Ice Cream Ratings Visualization](https://github.com/NishaSoni-Analyst/Visualization_matplotlib_python/blob/main/Visualization_matplotlib_pandas.ipynb)
 
 This project showcases various data visualization techniques using Matplotlib and Pandas on an Ice Cream Ratings dataset.
 
